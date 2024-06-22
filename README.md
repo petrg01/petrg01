@@ -3,7 +3,7 @@ The repositories in this GitHub are:
 - **petrg01** - The repository containing a readme file for a GitHub profile
 - **Analyses** - The repository for various Data Analysis projects
 - **OKSANA-Surveillance-System** - a Python program to monitor the computer operator's activity
-- **PythonDataBase** - a Python program with a GUI and a database to store sneaker information
+
 ## About me
 My name is Petr, I am currently pursuing a Master's degree in Data Science, and I am dedicated to better my programming skills. I have a particular fascination with Machine Learning and am committed to advancing my expertise in this area. My goal is to continually improve and contribute to the field of Machine Learning through both academic and practical experiences. 
 
