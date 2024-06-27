@@ -5,7 +5,7 @@ The repositories in this GitHub are:
 - **OKSANA-Surveillance-System** - a Python program to monitor the computer operator's activity
 
 ## About me
-My name is Petr, I am currently pursuing a Master's degree in Data Science, and I am dedicated to better my programming skills. I have a particular fascination with Machine Learning and am committed to advancing my expertise in this area. My goal is to continually improve and contribute to the field of Machine Learning through both academic and practical experiences. 
+My name is Petr, I am currently pursuing a Master's degree in Data Science, and I am dedicated to better my programming skills. I have a particular fascination with Machine Learning and am committed to advancing my expertise in this area. My goal is to continually improve and contribute to the field of Machine Learning through both academic and practical experiences, as well as gain experience in software development
 
 Currently I am learning Computer Vision and Natural Language Programming, and mostly use Python. I am planning to learn more programming languages - particularly Java and Scala.
 
