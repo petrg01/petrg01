@@ -1,5 +1,6 @@
 ## The content
 The repositories in this GitHub are:
+- **2024_TikTokTechJam--blin--project** - a submission for a TikTok TechJam 2024 Hackathon, includes an AI hatespeech detection solutuion, embedded in a web application for testing
 - **petrg01** - The repository containing a readme file for a GitHub profile
 - **Analyses** - The repository for various Data Analysis projects
 - **OKSANA-Surveillance-System** - a Python program to monitor the computer operator's activity
