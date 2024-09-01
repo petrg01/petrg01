@@ -12,7 +12,7 @@ Currently I am learning Computer Vision and Natural Language Processing, and mos
 
 ## Toolkit
 ### Languages:
-| Python3 | R | SQL | JavaScript |
+| Python3 | R | SQL | JS |
 |----------|----------|----------|-----|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" title="SQL"  alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaS"  alt="JavaS" width="55" height="55"/>
 
