@@ -1,5 +1,6 @@
 ## The content
 The repositories in this GitHub are:
+- **Inter-Uni-Datathon-2024-submission** - a submission for IBM x Citadel Securities Inter-Uni Datathon 2024. Includes cleaning and preparation of financial transaction data, and fraud detection model training.
 - **2024_TikTokTechJam--blin--project** - a submission for a TikTok TechJam 2024 Hackathon, includes an AI hatespeech detection solutuion, embedded in a web application for testing
 - **petrg01** - The repository containing a readme file for a GitHub profile
 - **Analyses** - The repository for various Data Analysis projects
