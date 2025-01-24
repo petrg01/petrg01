@@ -8,31 +8,37 @@ The repositories in this GitHub are:
 - **OKSANA-Surveillance-System** - a Python program to monitor the computer operator's activity
 
 ## About me
-My name is Petr, I am currently pursuing a Master's degree in Data Science, and I am dedicated to better my programming skills. I have a particular fascination with Machine Learning and am committed to advancing my expertise in this area. My goal is to continually improve and contribute to the field of Machine Learning through both academic and practical experiences, as well as gain experience in software development
+My name is Petr, and I am currently pursuing a Master's degree in Data Science at Macquarie University. I have a strong passion for Data Analytics, Machine Learning, and Software Development, with a particular focus on applying these skills to solve real-world challenges.
 
-Currently I am learning Computer Vision and Natural Language Processing, and mostly use Python. I am planning to learn more in the sphere of web development soon.
+Currently, I am deepening my knowledge in Computer Vision and Natural Language Processing while primarily working with Python and its robust ecosystem of Machine Learning libraries. I also have experience in developing mobile applications using Flutter. In the future, I aim to further expand my expertise in cutting-edge technologies and contribute to impactful projects in the tech industry.
 
 ## Toolkit
 ### Languages:
-| Python3 | R | SQL | JS |
+| Python3 | R | SQL | Dart |
 |----------|----------|----------|-----|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" title="SQL"  alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaS"  alt="JavaS" width="55" height="55"/>
-
-  
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" title="SQL"  alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="55" height="55"/>
 
 ### Python frameworks and libraries:
 
-| Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+| Numpy | Pandas | Sklearn | Matplotlib | OpenCV | TensorFlow | PyTorch |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/>|
+
+### Tools and environments:
+
+| Conda | Jupyter | VS Code | MySQL | Postgres | Tableau | AWS | Flutter |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/>|<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.2e16d0ba.fill-400x400.png" title="AWS" alt="AWS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>|
+
+### Certifications:
+
+| AWS Certified Solutions Architect – Associate |
+|-----------------------------------------------|
+|<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.2e16d0ba.fill-400x400.png" title="AWS Certified Solutions Architect – Associate" alt="AWS Certification" width="120" height="120"/>|
 
 
 
-### Tools and enviorments:
 
-| Conda | Jupyter | VS Code | MySQL | Postgres
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|
 
 
 
