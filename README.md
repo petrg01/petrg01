@@ -32,9 +32,9 @@ Currently, I am deepening my knowledge in Computer Vision and Natural Language P
 
 ### Certifications:
 
-| AWS Certified Solutions Architect – Associate | Tableau Certified Data Analyst
-|-----------------------------------------------|-----------------------------------------------|
-|<div align="center"><img src="src\aws-certified-solutions-architect-associate.png" title="AWS Certified Solutions Architect – Associate" alt="AWS Certification" width="204" height="204"/>|<div align="center"><img src="src\tableau-certified-data-analyst.1.png" title="Tableau Certified Data Analyst" alt="Tableau Certification" width="204" height="204"/>|
+| AWS Certified Solutions Architect – Associate | Tableau Certified Data Analyst | SnowPro Core |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+|<div align="center"><img src="src\aws-certified-solutions-architect-associate.png" title="AWS Certified Solutions Architect – Associate" alt="AWS Certification" width="204" height="204"/>|<div align="center"><img src="src\tableau-certified-data-analyst.1.png" title="Tableau Certified Data Analyst" alt="Tableau Certification" width="204" height="204"/>|<div align="center"><img src="src\snowpro_cert.png" title="SnowPro Core" alt="Snowflake Certification" width="204" height="204"/>|
 
 
 
